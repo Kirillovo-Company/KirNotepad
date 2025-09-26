@@ -1,22 +1,14 @@
-# KirCode
+# KirNotepad
 # Rus
-KirCode - это простой, но мощный текстовый редактор и редактор кода с подсветкой синтаксиса Python! 🐍💻
+KirCode - это простой, но мощный текстовый редактор с подсветкой синтаксиса! 💻
 
 Основные возможности:
-🌈 Подсветка синтаксиса Python (ключевые слова, строки, комментарии)
-
-💾 Сохранение кода в файл (Ctrl+S)
-
-🚀 Быстрый запуск Python-кода (Ctrl+T)
-
-📋 Поддержка горячих клавиш (Ctrl+C/Ctrl+V/Ctrl+X)
 
 🎨 Стильный тёмный интерфейс с приятной цветовой схемой
 
 🔍 Автоматическое обновление подсветки при редактировании
 
 Для кого этот редактор?
-🧑‍💻 Начинающие программисты
 
 🏫 Студенты для учебных проектов
 
@@ -24,16 +16,9 @@ KirCode - это простой, но мощный текстовый редак
 
 Простой интерфейс делает KirCode отличным выбором для тех, кто хочет сосредоточиться на коде без лишних сложностей!
 # Eng
-KirCode - a simple yet powerful text and code editor with Python syntax highlighting! 🐍💻
+KirNotepad - a simple yet powerful text editor with syntax highlighting! 💻
 
 Key Features:
-🌈 Python syntax highlighting (keywords, strings, comments)
-
-💾 Save code to file (Ctrl+S)
-
-🚀 Quick Python code execution (Ctrl+T)
-
-📋 Hotkeys support (Ctrl+C/Ctrl+V/Ctrl+X)
 
 🎨 Sleek dark interface with pleasant color scheme
 
@@ -58,18 +43,18 @@ GUI: Tkinter
 Платформа / Platform: Windows (можно адаптировать для других ОС / can be adapted for other OS)
 
 📸 Скриншот / Screenshot
-(Здесь можно добавить скриншот вашего редактора / You can add your editor screenshot here)
+нету
 
 💡 Как использовать / How to use
-Запустите KirCode / Run KirCode
-
-Начните писать код Python / Start writing Python code
+Запустите KirNotepad / Run KirNotepad
 
 Используйте горячие клавиши / Use hotkeys:
 
 Ctrl+S - сохранить / save
 
-Ctrl+T - запустить код / run code
+Ctrl+S - открыть файл / open file
+
+Ctrl+N - новый файл / new file
 
 Ctrl+C/Ctrl+V/Ctrl+X - стандартные операции / standard operations
 
